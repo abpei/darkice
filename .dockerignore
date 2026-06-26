@@ -1,0 +1,9 @@
+# Exclude non-essential directories from Docker build context
+website/
+darkice-gui/
+.git/
+.github/
+
+# Exclude documentation and text files
+*.md
+*.txt
